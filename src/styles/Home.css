@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 60vh;
+
+}
+.productcard{
+    display: flex;
+    flex-direction: column;
+    color: rgb(92, 27, 197);
+    margin: 20px;
+}
+.productcard img{
+    height: 200px;
+    width: 100px;
+}
